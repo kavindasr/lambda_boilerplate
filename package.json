@@ -1,0 +1,19 @@
+{
+  "name": "lambda_template",
+  "version": "1.0.0",
+  "description": "AWS lambda template for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavindasr/lambda_template.git"
+  },
+  "author": "KSR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavindasr/lambda_template/issues"
+  },
+  "homepage": "https://github.com/kavindasr/lambda_template#readme"
+}
